@@ -1,11 +1,14 @@
-# Sample Snack app
+# CALCULADORA REACT NATIVE
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+<img src="https://github.com/Reinmic/CALCULADORA_BASICA/blob/d744ccab02c4eba91a9ee32ed7cfeec7d91b0037/assets/Captura%20Calculadora.png" width="300" height="600">
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Descripción
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+**Calculadora React Native** es una aplicación móvil desarrollada con JavaScript y React Native que proporciona una herramienta versátil para realizar cálculos matemáticos básicos en dispositivos móviles. Con una interfaz intuitiva y clasica.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Características Destacadas
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- Realiza operaciones matemáticas básicas, incluyendo suma, resta, multiplicación y división.
+- Soporte para otras funciones como raíz cuadrada, logaritmo natural, logaritmo base 10, factorial y funciones trigonométricas (seno, coseno y tangente).
+- Diseño responsive que se adapta a diferentes tamaños de pantalla y orientaciones.
+- Desarrollado en React Native, lo que garantiza un rendimiento óptimo en dispositivos móviles.
